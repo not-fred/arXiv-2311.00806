@@ -22,3 +22,6 @@ For the reported results, version 1.6.6 of `julia` was used, with the packages
 - `WignerSymbols`: v2.0.0
 - `Memoization`: v0.2.1
 - `ArnoldiMethod`: v0.2.0
+
+# Generated Data
+The generated data used in the paper is also available in the `data` folder. `SDP-K$K.csv` and `SPI-K$K.csv` were plotted in Figs. 2–5, 8, A1–A3; while `SDP-Spin-One.csv` and `SPI-Spin-One.csv` were plotted in Fig. 6.
