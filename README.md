@@ -1,4 +1,4 @@
-# Script used in: Certification of genuine multipartite entanglement in spin ensembles with measurements of total angular momentum [arXiv-2210.10357]
+# Script used in: Certification of genuine multipartite entanglement in spin ensembles with measurements of total angular momentum [arXiv-2311.00806]
 Script used in [arXiv:2311.00806](https://arxiv.org/abs/2311.00806) for finding upper and lower bounds of the separable bound of the precession protocol. See the paper for more detail.
 
 # Usage
